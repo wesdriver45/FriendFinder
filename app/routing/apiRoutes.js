@@ -8,16 +8,17 @@ module.exports = function(app) {
 
 	//friend post 
 	app.post("/api/friends", function(req, res) {
-		var newFriend = req.body
+		var newFriend = {
+			name: req.body.name,
+			photo: req.body.photo,
+			scores: []
+		};
 
-		if (friends.length < 5) {
-      friends.push(req.body);
-      res.json(true);
-    }
-    else {
-      friends.push(req.body);
-      res.json(false);
-    }
+
+
+
+
+    friends.push(req.body);
 	});
 };
 
