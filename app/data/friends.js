@@ -45,4 +45,6 @@ var friendsArray = [
 	"scores":[]
 },
 
+];
+
 module.exports = friendsArray;
