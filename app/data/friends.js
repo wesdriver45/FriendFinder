@@ -1,27 +1,27 @@
 var friendsArray = [
 {
 	"name":"Amanda",
-	"photo":"https://www.pexels.com/photo/adult-beautiful-blonde-blur-324658/",
-	"scores":[3,2,1,5,4,1,2,5,3,4]
+	"photo":"https://images.pexels.com/photos/324658/pexels-photo-324658.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+	"scores":[3, 2, 1, 5, 4, 1, 2, 5, 3, 4]
 },{
 	"name":"Bartholomew",
-	"photo": "https://www.pexels.com/photo/man-young-happy-smiling-91227/",
-	"scores":[1,2,4,2,4,3,5,3,2,4]
+	"photo": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+	"scores":[1, 2, 4, 2, 4, 3, 5, 3, 2, 4]
 },{
 	"name":"Claire",
-	"photo":"",
-	"scores":[3,3,2,3,4,3,5,3,4,1]
+	"photo":"https://images.pexels.com/photos/372042/pexels-photo-372042.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+	"scores":[3, 3, 2, 3, 4, 3, 5, 3, 4, 1]
 },{
 	"name":"David",
-	"photo":"https://www.pexels.com/photo/adult-business-businessman-close-up-428339/",
-	"scores":[]
+	"photo":"https://images.pexels.com/photos/428339/pexels-photo-428339.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+	"scores":[3, 5, 4, 2, 2, 2, 3, 4, 1, 5]
 },{
 	"name":"Elisa",
-	"photo":"",
-	"scores":[]
+	"photo":"https://images.pexels.com/photos/407237/pexels-photo-407237.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+	"scores":[2, 4, 3, 5, 5, 1, 3, 1, 4, 3]
 },{
 	"name":"Fernando",
-	"photo":"https://www.pexels.com/photo/men-s-black-coat-with-white-polo-shirt-213117/",
+	"photo":"https://images.pexels.com/photos/213117/pexels-photo-213117.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
 	"scores":[]
 },{
 	"name":"Gillian",
