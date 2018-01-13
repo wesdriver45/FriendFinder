@@ -8,7 +8,15 @@ module.exports = function(app) {
 
 	//friend post 
 	app.post("api/friends", function(req, res) {
-		
-	})
-}
+
+		if (friendsdata.length < 5) {
+      friendsdata.push(req.body);
+      res.json(true);
+    }
+    else {
+      waitListData.push(req.body);
+      res.json(false);
+    }
+	});
+};
 

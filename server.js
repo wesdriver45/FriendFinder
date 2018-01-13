@@ -1,7 +1,8 @@
 //npm packages
 var express = require("express");
 var bodyParser = require("body-parser");
-var fs = require("fs");
+var path = require("path");
+
 //express server
 var app = express();
 //port

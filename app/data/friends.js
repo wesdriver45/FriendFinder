@@ -23,26 +23,6 @@ var friendsArray = [
 	"name":"Fernando",
 	"photo":"https://images.pexels.com/photos/213117/pexels-photo-213117.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
 	"scores":[]
-},{
-	"name":"Gillian",
-	"photo":"",
-	"scores":[]
-},{
-	"name":"Howard",
-	"photo":"",
-	"scores":[]
-},{
-	"name":"Isabel",
-	"photo":"",
-	"scores":[]
-},{
-	"name":"Jasper",
-	"photo":"",
-	"scores":[]
-},{
-	"name":"Karina",
-	"photo":"",
-	"scores":[]
 },
 
 ];
